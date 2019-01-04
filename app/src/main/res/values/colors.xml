@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="btn_normal_color">#FC7373</color>
+    <color name="btn_press_color">#FF7373</color>
+    <color name="title_blue">#3498DB</color>
+    <color name="btn_blue">#0DADEF</color>
+    <color name="transparent">#00000000</color>
+    <color name="gray_transparent">#90000000</color>
+    <color name="translucent">#334080b0</color>
+    <color name="blue_translucent">#60fa8400</color>
+    <color name="tab_active">#ff63a7da</color>
+    <color name="bg_gray">#F5F5F9</color>
+    <color name="order_green">#87CD01</color>
+    <color name="status01">#399CEB</color>
+    <color name="status2">#79C73C</color>
+    <color name="status3">#E23B43</color>
+    <color name="yellow">#FFF400</color>
+
+    <color name="grid_bg">#FEF3D2</color>
+    <color name="white">#ffffff</color>
+    <color name="orange">#E55228</color>
+    <color name="class_green">#EAFFEC</color>
+    <color name="class_green_border">#50CA64</color>
+    <color name="class_puple">#7E007E</color>
+    <color name="class_blue">#D6F3FF</color>
+    <color name="class_blue_border">#51BAE5</color>
+    <color name="class_gone">#CCC</color>
+    <color name="class_bg">#DCDCDC</color>
+    <color name="class_book">#6DDF2E</color>
+    <color name="class_check">#399CEB</color>
+</resources>
